@@ -1,0 +1,1 @@
+This project is all about HTML, how to use it's magic just to build the basic structure of web page.At the end of thie project ,I will be able to use the HTML tag just to make the backbone of the webpage.
